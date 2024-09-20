@@ -1,1 +1,1 @@
-# git_intro_1 remi
+# git_intro_1 Vive le week end !
