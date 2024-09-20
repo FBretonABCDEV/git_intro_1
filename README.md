@@ -1,1 +1,2 @@
-# git_intro_1 c'est le week end
+# git_intro_1 Vive le week end !
+
